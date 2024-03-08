@@ -1,0 +1,42 @@
+
+
+.footer {
+    background-color:transparent;
+    margin-top: 199px;
+    color: #fff;
+    padding:20px;
+    display: flex;
+    justify-content: space-between;
+     width: 100vw;
+}
+
+.footer-column {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.footer-column:last-child {
+    margin-right: 0;
+}
+
+.footer-column h4 {
+    margin-bottom: 10px;
+}
+
+.social-icons {
+    display: flex;
+    align-items: center;
+}
+
+.social-icon {
+    margin-right: 10px;
+    color: #fff;
+    font-size: 24px;
+}
+
+.copyright {
+   
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
